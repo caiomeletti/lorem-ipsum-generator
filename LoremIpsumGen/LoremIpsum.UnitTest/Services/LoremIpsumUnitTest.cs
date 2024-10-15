@@ -11,7 +11,7 @@ namespace LoremIpsum.UnitTest.Services
             _loremIpsumService = new LoremIpsumService();
         }
 
-        [Fact(DisplayName = "Geração de palavras deve conter o número de palavras solicitado")]
+        [Fact(DisplayName = "Geração de palavras deve conter o número de palavras solicitadas")]
         public void Test1()
         {
             var number = 30;
@@ -27,7 +27,7 @@ namespace LoremIpsum.UnitTest.Services
             Assert.Equal(number, aWords.Length);
         }
 
-        [Fact(DisplayName = "Geração de sentenças deve conter o número de palavras solicitado")]
+        [Fact(DisplayName = "Geração de sentenças deve conter o número de sentenças solicitadas")]
         public void Test2()
         {
             var number = 5;
@@ -43,7 +43,7 @@ namespace LoremIpsum.UnitTest.Services
             Assert.Equal(number, aSenteces.Length);
         }
 
-        [Fact(DisplayName = "Geração de parágrafos deve conter o número de palavras solicitado")]
+        [Fact(DisplayName = "Geração de parágrafos deve conter o número de parágrafos solicitados")]
         public void Test3()
         {
             var number = 3;
