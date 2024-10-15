@@ -119,6 +119,8 @@
             Controls.Add(textBox1);
             Controls.Add(groupBox1);
             Controls.Add(nudAmontOf);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
             Name = "Form1";
             Text = "Lorem Ipsum Generator";
             ((System.ComponentModel.ISupportInitialize)nudAmontOf).EndInit();
