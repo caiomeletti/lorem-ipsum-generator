@@ -20,18 +20,18 @@ Este aplicativo gera passagens de texto *lorem ipsum* adequadas para uso como c�
 - [.NET](https://dotnet.microsoft.com/pt-br/download)
 
 
-## ⚙️ Executando os testes
+## ⚙️ Testes unitários
 
 Testes unitários são importantes para garantir cobertura de testes relacionadas as regras de negócios.
 
-Basicamente existem três regras básicas:
+Basicamente existem três regras:
 
 - [x] Geração de palavras deve conter o número de palavras solicitado
 - [x] Geração de sentenças deve conter o número de sentenças solicitadas
 - [x] Geração de parágrafos deve conter o número de parágrafos solicitado
 
 
-### 🔩 Analise os testes de ponta a ponta
+### 🔩 Executando os testes
 
 Para executar os testes unitários:
 
