@@ -4,7 +4,7 @@
 
 Lorem Ipsum é simplesmente um texto fictício da indústria tipográfica e de impressão. 
 
-O objetivo da criação desse projeto é ele faça parte do portfólio, demonstrando um nível de implementação iniciante.
+O objetivo da criação desse projeto é que ele faça parte do portfólio, demonstrando um nível de implementação iniciante.
 
 ## 🚀 Começando
 
